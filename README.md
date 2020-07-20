@@ -1,3 +1,5 @@
+![image](https://github.com/rogerguasch/rogerguasch/blob/master/dino.gif)
+
 ### Hi there 👋
 
 <!--
